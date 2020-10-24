@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=q3SquaresAndSums
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=max
+comment2.target=void\ findSum(int)
+comment3.params=max
+comment3.target=void\ findSquare(int)
+numComments=4
